@@ -30,7 +30,7 @@ As a **Data Science Intern** at Lifespark Technologies, I contributed to project
 ## 🛠️ Tools & Technologies  
 
 - **Language**: Python  
-- **Libraries**: DeepLabCut, MediaPipe, OpenCV, Pandas, NumPy, Scikit-learn, QuickML, SciPy  
+- **Libraries**: DeepLabCut, MediaPipe, OpenCV, tensorflow, Pandas, NumPy, Scikit-learn, QuickML, SciPy
 - **Methods**: Fourier analysis, signal analysis, feature engineering, model development, model evaluation
 
 ---
